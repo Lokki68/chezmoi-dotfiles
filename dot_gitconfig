@@ -1,0 +1,16 @@
+[user]
+	email = b.libert@ideematic.com
+	name = Brice
+[alias]
+	save = !git add . && git commit -m
+	cim = commit -m
+	co = checkout
+	st = status
+	ps = push
+	pl = pull
+	mg = merge
+	sw = switch -c
+	ffs = flow feature start
+	fff = flow feature finish
+[core]
+	editor = nvim
